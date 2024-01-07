@@ -2,7 +2,7 @@ Title: M33 Triangulum Galaxy
 Date: 2024-01-04 17:58
 Category: M33
 
-![M33 Triangulum Galaxy](../images/m33-triangulum-galaxy-small.jpg)
+![M33 Triangulum Galaxy](images/m33-triangulum-galaxy-small.jpg)
 
 # Equipment
 - Telescope: TS 80/520 quadruplet
