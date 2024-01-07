@@ -2,7 +2,7 @@ Title: NGC2237 Rosette Nebula
 Date: 2021-01-23 17:58
 Category: NGC2237
 
-![NGC 2237 Triangulum Galaxy](../images/ngc2237-rosette-nebula-small.jpg)
+![NGC 2237 Triangulum Galaxy](images/ngc2237-rosette-nebula-small.jpg)
 
 # Equipment
 - Telescope: Skywatcher 150/750, reflector
