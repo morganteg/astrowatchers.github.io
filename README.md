@@ -1,2 +1,5 @@
-# astrowatchers.github.io
-Astrowatchers website repository
+# Astrowatchers web site repository
+
+# Development
+```pelican content```
+```pelican --listen```
