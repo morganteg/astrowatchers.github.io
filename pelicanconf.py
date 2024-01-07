@@ -1,6 +1,6 @@
 AUTHOR = 'Gabriele Morgante'
 SITENAME = 'Astrowatchers.space'
-SITEURL = ""
+SITEURL = "https://morganteg.github.io/astrowatchers.github.io"
 
 PATH = "content"
 
@@ -32,6 +32,6 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 OUTPUT_PATH = 'docs'
